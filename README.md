@@ -7,7 +7,7 @@
 
 # Juan Federico Martinez
 
-_Thank you for this minute of your life, to a close lookup on me Gracias por este minuto de tu vida para conocerme de cerca_
+_Thank you for this minute of your life, to a close lookup on me. <k>Gracias por este minuto de tu vida para conocerme de cerca</k>_
 
 <!-- 
   <<< Author notes: Start of the course >>> 
